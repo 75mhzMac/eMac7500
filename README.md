@@ -52,7 +52,7 @@ Be sure to subscribe to their YouTube channels for wonderful videos on PowerPC M
 - Ethernet internet connection
 
 ### SSH Setup
-***No adapter or display?*** Refer to [SSH-NOTES.md](SSH-NOTES.md) for instructions on setting up OpenBSD using another computer. 
+***No adapter or display?*** Refer to [SSH-SETUP.md](SSH-SETUP.md) for instructions on setting up OpenBSD using another computer. 
 
 ## Preparing Your Hard Disk
 
